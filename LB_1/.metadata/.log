@@ -1,0 +1,19 @@
+!SESSION 2023-09-29 02:59:31.531 -----------------------------------------------
+eclipse.buildId=Version 1.13.0
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  E:\stm32CubMX\lab\LB\Finish\LB_1\LAB_MAG_1\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 E:\stm32CubMX\lab\LB\Finish\LB_1\LAB_MAG_1\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-29 02:59:48.898
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-29 02:59:48.990
+!MESSAGE Log4j2 initialized with config file E:\stm32CubMX\lab\LB\Finish\LB_1\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-29 02:59:56.841
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-29 03:00:03.898
+!MESSAGE Indexed 'LAB_MAG_1' (22 sources, 108 headers) in 4.74 sec: 9,023 declarations; 32,117 references; 6 unresolved inclusions; 756 syntax errors; 1,175 unresolved names (2.8%)
