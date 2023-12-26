@@ -1,0 +1,10 @@
+19:59:56 **** Incremental Build of configuration Debug for project LAB_4_MAG ****
+make -j4 all 
+arm-none-eabi-size   LAB_4_MAG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12516	     20	   1868	  14404	   3844	LAB_4_MAG.elf
+Finished building: default.size.stdout
+ 
+
+19:59:56 Build Finished. 0 errors, 0 warnings. (took 365ms)
+
